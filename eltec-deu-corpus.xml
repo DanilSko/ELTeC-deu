@@ -7,8 +7,8 @@
       </titleStmt>
       <publicationStmt>
         <publisher>ELTeC</publisher>
-        <idno type="URI" xml:base="https://eltec.clscor.io/">cze</idno>
-        <idno type="repo">https://github.com/COST-ELTeC/ELTeC-cze/</idno>
+        <idno type="URI" xml:base="https://eltec.clscor.io/">deu</idno>
+        <idno type="repo">https://github.com/COST-ELTeC/ELTeC-deu/</idno>
         <availability>
           <licence target="https://creativecommons.org/share-your-work/public-domain/cc0/">
             CC0
